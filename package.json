@@ -1,0 +1,17 @@
+{
+  "name": "@deploysentinel/cypress-recorder",
+  "description": "Translate clicks, inputs, and other interactions into Cypress script inside your Cypress test browser (replacement for Cypress Studio)",
+  "keywords": [
+    "cypress",
+    "recorder",
+    "cypress-plugin",
+    "studio",
+    "test"
+  ],
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "10"
+  }
+}
