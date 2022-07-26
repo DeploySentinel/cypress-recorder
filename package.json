@@ -1,5 +1,7 @@
 {
   "name": "@deploysentinel/cypress-recorder",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
   "description": "Translate clicks, inputs, and other interactions into Cypress script inside your Cypress test browser (replacement for Cypress Studio)",
   "keywords": [
     "cypress",
@@ -8,7 +10,6 @@
     "studio",
     "test"
   ],
-  "version": "0.1.0",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
